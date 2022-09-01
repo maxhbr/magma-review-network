@@ -1,0 +1,3 @@
+* magma-review-network
+
+This Repository contains a script =generate.sh= which produces a HTML document =review-network.html=. This script requires =gh= and =jq= to work.
